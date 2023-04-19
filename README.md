@@ -1,3 +1,3 @@
 
 # CODILITY_Solutions
-It contains practice lessons codes in C++
+This repo consists of practice lessons codes in C++
